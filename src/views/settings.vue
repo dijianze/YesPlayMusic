@@ -520,10 +520,7 @@
       </div>
 
       <div class="footer">
-        <p class="author"
-          >MADE BY RedSpeziell
-          </p
-        >
+        <p class="author">MADE BY RedSpeziell</p>
         <p class="version">v{{ version }}</p>
       </div>
     </div>
